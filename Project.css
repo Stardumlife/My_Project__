@@ -1,0 +1,71 @@
+body{
+    background-color: azure;
+    
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 12px;
+    margin: 15px;
+    text-align: center; 
+}
+nav{
+    background-color: skyblue;
+    font-size: large;
+    padding: 12px;
+    font-style: italic;
+    font-size: 23px;
+
+}
+footer{
+    background-color: skyblue;
+    font-size: 23px;
+    padding: 12px;
+    font-style: italic;
+    
+}
+a:hover{
+    border-color: pink;
+}
+div{
+    
+    margin: 10px;
+    
+}
+img{
+    width: 320px;
+    height: 380px;
+    margin-left: 455px;
+    border: 2px solid black;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+    font-size: 23px;
+    color: black;
+
+}
+.omg{
+    font-style: italic;
+    font-size: 17px;
+    color: blue;
+    margin-left: 493px;
+    
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    text-align: justify;
+    font-weight:500;
+}
+.rmg{
+    border: 1px solid green;
+}
